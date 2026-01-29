@@ -47,8 +47,9 @@ This project is mainly intended for **learning purposes**, helping students unde
 
 ## 🚀 How to Run
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/sabarinathrms/CUSTOM-DICTIONARY.git
+```
 Navigate to the project folder:
  ```bash
   cd CUSTOM-DICTIONARY
@@ -69,22 +70,22 @@ CUSTOM-DICTIONARY/
 ## 🎓 Educational Use
 This project is ideal for:
 
-Data Structures & Algorithms practice
+- Data Structures & Algorithms practice
 
-C programming mini projects
+- C programming mini projects
 
-College lab assignments
+- College lab assignments
 
-Beginners learning linked lists
+- Beginners learning linked lists
 
 ## 📌 Future Enhancements
-Implement hash table for faster lookup
+- Implement hash table for faster lookup
 
-Add file handling for data persistence
+- Add file handling for data persistence
 
-Support multiple data types
+- Support multiple data types
 
-Improve time complexity
+- Improve time complexity
 
 ## 👤 Author
 Sabarinath S
