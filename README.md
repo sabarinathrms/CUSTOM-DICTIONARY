@@ -50,20 +50,23 @@ This project is mainly intended for **learning purposes**, helping students unde
    ```bash
    git clone https://github.com/sabarinathrms/CUSTOM-DICTIONARY.git
 Navigate to the project folder:
-
-cd CUSTOM-DICTIONARY
-Compile the program:
-
-gcc CustomDictionary.c -o dictionary
+ ```bash
+  cd CUSTOM-DICTIONARY
+```
+  Compile the program:
+```bash
+  gcc CustomDictionary.c -o dictionary
+```
 Run the program:
-
+```bash
 ./dictionary
-📂 Project Structure
+```
+## 📂 Project Structure
 CUSTOM-DICTIONARY/
 │
 ├── CustomDictionary.c
 └── README.md
-🎓 Educational Use
+## 🎓 Educational Use
 This project is ideal for:
 
 Data Structures & Algorithms practice
@@ -74,7 +77,7 @@ College lab assignments
 
 Beginners learning linked lists
 
-📌 Future Enhancements
+## 📌 Future Enhancements
 Implement hash table for faster lookup
 
 Add file handling for data persistence
@@ -83,8 +86,8 @@ Support multiple data types
 
 Improve time complexity
 
-👤 Author
+## 👤 Author
 Sabarinath S
 
-📜 License
+## 📜 License
 This project is open-source and available for educational use.
